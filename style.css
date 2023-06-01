@@ -1,0 +1,33 @@
+body{
+    background-image: url("Fondo.png");
+    background-size: cover;
+    font-family: 'Righteous', cursive !important;
+}
+#H1{
+    margin-left: 1500px;
+    margin-top: 500px;
+    color: #00EEFF !important;
+}
+.WEB{
+    z-index: 10;
+    float: left;
+    font-family: 'Peralta', cursive;
+    font-size: larger;
+    padding-top: 5px;
+    padding-left: 5px;
+    padding-right: 5px;
+    padding-bottom: 5px;
+}
+.MENU{
+    position: absolute;
+    list-style: none;
+    cursor: pointer;
+    position: fixed;
+    background-color: #194341;
+    width: 100%;
+    margin-top: 0px;
+    top: 0px;
+}
+h3{
+    color: #A4ABFF !important;
+}
