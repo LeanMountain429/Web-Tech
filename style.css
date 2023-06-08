@@ -31,3 +31,28 @@ body{
 h3{
     color: #A4ABFF !important;
 }
+#asdada{
+    width: auto;
+    height: 500px;
+}
+label{
+    color: #00EEFF !important;
+    font-size: large;
+}
+#UBICATE{
+    margin-top: -400px;
+    margin-left: 700px;
+    height: 750px;
+    width: 600px;
+}
+#Home{
+    padding-top: 200px;
+}
+#Information{
+    padding-top: 200px;
+}
+#XY{
+    height: 450px;
+    width: 550px;
+    transform: rotate(-16deg);
+}
